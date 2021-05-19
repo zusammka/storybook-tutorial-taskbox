@@ -11,7 +11,7 @@
 
 This template ships with the main React and Storybook configuration files you'll need to get up and running fast.
 
-## 🚅  Quick start
+## 🚅  Quick start from Yuliia
 
 1.  **Create the application.**
 
